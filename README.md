@@ -1,0 +1,22 @@
+# AI for PDEs – Solving and Discovering Differential Equations with Neural Networks  
+
+This repository contains implementations of deep learning models for solving and discovering partial differential equations (PDEs). The project focuses on leveraging **Fourier Neural Operators (FNO)** and **sparse regression methods** to analyze and predict solutions to complex dynamical systems.  
+
+## Project Overview  
+
+###  1. Fourier Neural Operator (FNO) for the 1D Wave Equation  
+- Trains an FNO to approximate the solution of a **1D wave equation**.  
+- Evaluates the model across different spatial resolutions and out-of-distribution (OOD) datasets.  
+- Extends the training approach to a time-dependent setting.  
+
+###  2. PDE Discovery with PDE-FIND  
+- Uses sparse regression to reconstruct **unknown PDEs** from observed data.  
+- Builds a library of candidate terms and selects the most relevant using sparsity-promoting techniques.  
+- Applies the method to increasingly complex PDE datasets, including coupled equations.  
+
+###  3. Neural Solver for the Allen-Cahn Equation  
+- Develops a **foundation model** for solving the **Allen-Cahn equation**, a fundamental model in phase separation dynamics.  
+- Investigates generalization across different parameter regimes (\(\epsilon\) values) and initial conditions.  
+- Evaluates error metrics, convergence behavior, and physical properties like **interface width**.  
+- Includes the proof of stability theorem for the equation.  
+
