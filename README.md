@@ -1,5 +1,5 @@
 # Deep learning for PDEs 
-It contains the final project (consisting of 3 subprojects) I completed for the course "Deep Learning for Scientific computing", thought at ETH by professor Siddharta Mishra in Fall 2024. The project focuses on leveraging Fourier Neural Operators (FNO) and regression methods to solving and discovering partial differential equations (PDEs). 
+It contains the final project (consisting of 3 subprojects) I completed for the course "AI in the Sciences and Engineering", thought at ETH by professor Siddharta Mishra in Fall 2024. The project focuses on leveraging Fourier Neural Operators (FNO) and regression methods to solving and discovering partial differential equations (PDEs). 
 
 **CODE IS HERE**: https://drive.google.com/file/d/10IkED9yEph80XQBLcHfbSEzbgqSYL47o/view?usp=sharing
 
