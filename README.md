@@ -1,4 +1,4 @@
-# AI for PDEs – Solving and Discovering Differential Equations with Neural Networks  
+# Deep learning for PDEs
 
 This repository contains implementations of deep learning models for solving and discovering partial differential equations (PDEs). The project focuses on leveraging **Fourier Neural Operators (FNO)** and **sparse regression methods** to analyze and predict solutions to complex dynamical systems.  
 
