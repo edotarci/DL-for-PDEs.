@@ -1,6 +1,5 @@
-# Deep learning for PDEs
-
-This repository contains implementations of deep learning models for solving and discovering partial differential equations (PDEs). The project focuses on leveraging **Fourier Neural Operators (FNO)** and **sparse regression methods** to analyze and predict solutions to complex dynamical systems.  
+# Deep learning for PDEs 
+It contains the final project (consisting of 3 subprojects) I completed for the course "Deep Learning for Scientific computing", thought at ETH by professor Siddharta Mishra in Fall 2024. The project focuses on leveraging Fourier Neural Operators (FNO) and regression methods to solving and discovering partial differential equations (PDEs). 
 
 ## Project Overview  
 
