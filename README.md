@@ -15,7 +15,7 @@ It contains the final project (consisting of 3 subprojects) I completed for the 
 
 ###  3. Neural Solver for the Allen-Cahn Equation  
 - Develops a **foundation model** for solving the **Allen-Cahn equation**, a fundamental model in phase separation dynamics.  
-- Investigates generalization across different parameter regimes (\(\epsilon\) values) and initial conditions.  
-- Evaluates error metrics, convergence behavior, and physical properties like **interface width**.  
+- Investigates generalization across different parameter regimes and initial conditions.  
+- Evaluates error metrics, convergence behavior, and physical properties.  
 - Includes the proof of stability theorem for the equation.  
 
